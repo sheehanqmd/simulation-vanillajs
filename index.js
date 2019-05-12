@@ -6,37 +6,37 @@ You should display a list of all the monthly expenses.
 * This should update anytime a new bill is added.
 * This should updates anytime a bill is deleted.
 
-let expenses = [] 
+// let expenses = [] 
 
-function myFunction() {
-  var expenses = ["", "", "", ""];
-  bills.toString();
-  document.getElementById("").innerHTML = bills;
+// function myFunction() {
+//   var expenses = ["", "", "", ""];
+//   bills.toString();
+//   document.getElementById("").innerHTML = bills;
 
-}
+// }
 
-function calculateBill(amount) {
-    Amount =
+// function calculateBill(amount) {
+//     Amount =
   
-    return amount;
-  }
+//     return amount;
+//   }
 
-function(){
+// function(){
 
-}
-function add(element) {
-  var div; 
+// }
+// function add(element) {
+//   var div; 
   
-  var fragment = document.createDocumentFragment();
-  for (var i = 0; i < 0; i ++) {
-    div = document.createElement('a');
-    div.innerHTML = '';
-    fragment.appendChild(div);
-  }
-  element.appendChild(fragment);
-}
+//   var fragment = document.createDocumentFragment();
+//   for (var i = 0; i < 0; i ++) {
+//     div = document.createElement('a');
+//     div.innerHTML = '';
+//     fragment.appendChild(div);
+//   }
+//   element.appendChild(fragment);
+// }
 
-addBill: function () {
-  $('table td').on('click', function () {
-      $(this).toggleClass('active');
-  });
+// addBill: function () {
+//   $('table td').on('click', function () {
+//       $(this).toggleClass('active');
+//   });
